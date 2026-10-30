@@ -1,0 +1,3 @@
+Model,Accuracy,F1,Training time (s),Parameters
+LSTM,0.804,0.8043,7.24,673345
+Attention,0.8223,0.8148,6.18,652353
