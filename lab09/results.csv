@@ -1,0 +1,3 @@
+Model,Token_Accuracy,Entity_Precision,Entity_Recall,Entity_F1
+Baseline (Token Features + Logistic Regression),0.9532,0.6992,0.7417,0.7198
+Pretrained Transformer (bert-base-cased),0.9824,0.9033,0.9196,0.9114
